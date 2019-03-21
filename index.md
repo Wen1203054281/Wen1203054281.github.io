@@ -6,7 +6,7 @@
       <p><b>专业：计算机及其应用</b></p>
        <p><b>CSDN博客：HuoWenHe1</b></p>
      <p><b>Email:1203054281@qq.com</b></p>
-       <img src="https://github.com/Wen1203054281/Wen1203054281.github.io/blob/master/111.png" width="100%"> 
+       <img src="https://github.com/Wen1203054281/Wen1203054281.github.io/blob/master/未标题-1.png" width="100%"> 
   </td>
  </tr>
 </table>
