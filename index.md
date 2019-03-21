@@ -4,3 +4,4 @@
 ## 姓名：贺火文
 ### 兴趣：XXX
 ### 特长：XXX
+<img src="https://github.com/Wen1203054281/Wen1203054281.github.io/blob/master/111.png" width="280" height="483.6"/>
