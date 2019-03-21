@@ -1,4 +1,4 @@
-<table border="0">
+<table border="100">
 <tr>
 <td width="100%">
   <h1>贺火文</h1>
