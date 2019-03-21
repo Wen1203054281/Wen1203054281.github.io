@@ -1,6 +1,6 @@
-<table border="20">
+<table border="0">
 <tr>
-<td width="100%">
+<td width="300%">
   <h1>贺火文</h1>
   <p><b>暨南大学教育学院</b></p>
   <p><b>18级计算机</b></p>
