@@ -1,7 +1,10 @@
-# 以下是我的信息
-## 院校：暨南大学
-## 专业：18级计算机
-## 姓名：贺火文
-### 兴趣：XXX
-### 特长：XXX
-<img src="https://github.com/Wen1203054281/Wen1203054281.github.io/blob/master/111.png" width="280" height="483.6"/>
+<table border="0">
+<tr>
+<td width="75%">
+  <h1>邱红理</h1>
+  <p><b>本科生</b></p>
+  <p><b>暨南大学</b></p>
+  <p><b>邮箱：173905493@qq.com</b></p>
+  </td>
+ </tr>
+</table>
