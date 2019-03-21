@@ -6,6 +6,8 @@
       <p><b>专业：计算机及其应用</b></p>
        <p><b>CSDN博客：HuoWenHe1</b></p>
      <p><b>Email:1203054281@qq.com</b></p>
+      <p><b>兴趣爱好：XXXXX</b></p>
+       <p><b>特长：XXXXX</b></p>
   </td>
  </tr>
 </table>
