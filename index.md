@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>贺火文</h1>
-      <p><b>院校：暨南大学</b></p>
+      <p><b>院校：暨南大学教育学院</b></p>
       <p><b>专业：计算机及其应用</b></p>
       <p><b>邮箱：1203054281@qq.com</b></p>
       <p><b>CSDN:https://blog.csdn.net/HuoWenHe1</b></p>
